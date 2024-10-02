@@ -29,6 +29,9 @@ and I also wanna make a DOS game someday.
 
 Might post more details on my website.
 
+For contact information, I primarily prefer Twitter|X, but can tolerate Bluesky if that's what
+you really, really, really prefer. Also okay with email, IRC... we'll see.
+
 return 0;
 }
 ```
